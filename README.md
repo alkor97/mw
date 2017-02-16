@@ -11,4 +11,4 @@ Generate pages (set `draft` as `false` in TOML headers)
 $ hugo -t revealjs
 ```
 
-Ready to upload content is generated to {{public}} directory.
+Ready to upload content is generated to ```public``` directory.
