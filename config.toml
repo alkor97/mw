@@ -1,0 +1,6 @@
+languageCode = "pl-pl"
+title = "Mutyzm Wybiórczy"
+baseurl = "http://mw.alkor.info/"
+
+[blackfriday]
+hrefTargetBlank = true
